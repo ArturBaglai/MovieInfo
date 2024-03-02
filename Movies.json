@@ -1,0 +1,427 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "moveIcon2.jpg",
+      "genre_ids": [
+        80,
+        18,
+        10759
+      ],
+      "id": 4614,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "NCIS",
+      "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a shred of evidence connected to Navy and Marine Corps personnel, regardless of rank or position.",
+      "popularity": 3247.099,
+      "poster_path": "/2exOHePjOTquUsbThPGhuEjYTyA.jpg",
+      "first_air_date": "2003-09-23",
+      "name": "NCIS",
+      "vote_average": 7.618,
+      "vote_count": 2095
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oOce9hLMVFubjAJliau4kiSNPnW.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 549,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Law & Order",
+      "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
+      "popularity": 3083.165,
+      "poster_path": "/77OPlbsvX3pzoFbyfpcE3GXMCod.jpg",
+      "first_air_date": "1990-09-13",
+      "name": "Law & Order",
+      "vote_average": 7.401,
+      "vote_count": 494
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9TXcHOeCsM8W3ZKKIKjdYUsRSeq.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 72879,
+      "origin_country": [
+        "FR"
+      ],
+      "original_language": "fr",
+      "original_name": "Demain nous appartient",
+      "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
+      "popularity": 2924.42,
+      "poster_path": "/3uU5uJzOX7xe7mn7YKpBM9oiEZO.jpg",
+      "first_air_date": "2017-07-17",
+      "name": "Tomorrow Is Ours",
+      "vote_average": 6.085,
+      "vote_count": 47
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/soQgquPkLmUu9eKLJJzuA4KZDyi.jpg",
+      "genre_ids": [
+        80,
+        18,
+        9648
+      ],
+      "id": 69050,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Riverdale",
+      "overview": "Set in the present, the series offers a bold, subversive take on Archie, Betty, Veronica and their friends, exploring the surreality of small-town life, the darkness and weirdness bubbling beneath Riverdale’s wholesome facade.",
+      "popularity": 2804.035,
+      "poster_path": "/c1ROxK1Afo6YuGi3j6ClXmrNcHi.jpg",
+      "first_air_date": "2017-01-26",
+      "name": "Riverdale",
+      "vote_average": 8.471,
+      "vote_count": 13238
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uebu84oKKbYRBBn5Ycbk9XFloiW.jpg",
+      "genre_ids": [
+        35,
+        18,
+        9648
+      ],
+      "id": 4557,
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "Lovejoy",
+      "overview": "The adventures of the eponymous Lovejoy, a likeable but roguish antiques dealer based in East Anglia. Within the trade, he has a reputation as a “divvie”, a person with an almost supernatural powers for recognising exceptional items as well as distinguishing genuine antique from clever fakes or forgeries.",
+      "popularity": 2655.59,
+      "poster_path": "/u8laLfmd7ZxxIFP3DUaqKnVRMFH.jpg",
+      "first_air_date": "1986-01-10",
+      "name": "Lovejoy",
+      "vote_average": 7.402,
+      "vote_count": 41
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xXRsKNJHTOGrs5wfYAxkbM2RiyT.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 71712,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Good Doctor",
+      "overview": "Shaun Murphy, a young surgeon with autism and savant syndrome, relocates from a quiet country life to join a prestigious hospital's surgical unit. Unable to personally connect with those around him, Shaun uses his extraordinary medical gifts to save lives and challenge the skepticism of his colleagues.",
+      "popularity": 2624.343,
+      "poster_path": "/luhKkdD80qe62fwop6sdrXK9jUT.jpg",
+      "first_air_date": "2017-09-25",
+      "name": "The Good Doctor",
+      "vote_average": 8.501,
+      "vote_count": 11930
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rX5hvSRB2k4YoIvRg6Zky52rWk0.jpg",
+      "genre_ids": [
+        10765,
+        37
+      ],
+      "id": 63247,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Westworld",
+      "overview": "A dark odyssey about the dawn of artificial consciousness and the evolution of sin. Set at the intersection of the near future and the reimagined past, it explores a world in which every human appetite, no matter how noble or depraved, can be indulged.",
+      "popularity": 2513.648,
+      "poster_path": "/8MfgyFHf7XEboZJPZXCIDqqiz6e.jpg",
+      "first_air_date": "2016-10-02",
+      "name": "Westworld",
+      "vote_average": 8.069,
+      "vote_count": 5073
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2eIlCirgcvEwmCSYh2wDfz5Sxvz.jpg",
+      "genre_ids": [
+        18,
+        80,
+        9648
+      ],
+      "id": 46952,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Blacklist",
+      "overview": "Raymond \"Red\" Reddington, one of the FBI's most wanted fugitives, surrenders in person at FBI Headquarters in Washington, D.C. He claims that he and the FBI have the same interests: bringing down dangerous criminals and terrorists. In the last two decades, he's made a list of criminals and terrorists that matter the most but the FBI cannot find because it does not know they exist. Reddington calls this \"The Blacklist\". Reddington will co-operate, but insists that he will speak only to Elizabeth Keen, a rookie FBI profiler.",
+      "popularity": 2324.128,
+      "poster_path": "/r935SMphvXppx5bJjbIBNx02fwc.jpg",
+      "first_air_date": "2013-09-23",
+      "name": "The Blacklist",
+      "vote_average": 7.625,
+      "vote_count": 2905
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rj3jBAZwPiOgkwAy1205MAgLahj.jpg",
+      "genre_ids": [
+        10766
+      ],
+      "id": 81329,
+      "origin_country": [
+        "FR"
+      ],
+      "original_language": "fr",
+      "original_name": "Un si grand soleil",
+      "overview": "",
+      "popularity": 2296.594,
+      "poster_path": "/t6jVlbPMtZOJoAOfeoR4yQmnjXM.jpg",
+      "first_air_date": "2018-08-27",
+      "name": "Chronicles of the Sun",
+      "vote_average": 7.491,
+      "vote_count": 53
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eWF3oRyL4QWaidN9F4uvM7cBJUV.jpg",
+      "genre_ids": [
+        10766
+      ],
+      "id": 206559,
+      "origin_country": [
+        "ZA"
+      ],
+      "original_language": "af",
+      "original_name": "Binnelanders",
+      "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+      "popularity": 2295.958,
+      "poster_path": "/v9nGSRx5lFz6KEgfmgHJMSgaARC.jpg",
+      "first_air_date": "2005-10-13",
+      "name": "Binnelanders",
+      "vote_average": 5.575,
+      "vote_count": 20
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eDxBkRZRmbzwCxVqY1oSyTKNIid.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 2316,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Office",
+      "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
+      "popularity": 2260.704,
+      "poster_path": "/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+      "first_air_date": "2005-03-24",
+      "name": "The Office",
+      "vote_average": 8.589,
+      "vote_count": 3614
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qZ7CdO7rkH0KyCxvZBoP4Mm2cQL.jpg",
+      "genre_ids": [
+        10767,
+        99
+      ],
+      "id": 132544,
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "위대한 수업, 그레이트 마인즈",
+      "overview": "",
+      "popularity": 2186.152,
+      "poster_path": "/lj46PSaBziqCqbGXlmnXN325biA.jpg",
+      "first_air_date": "2021-08-30",
+      "name": "Great Minds",
+      "vote_average": 4.6,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4W2sH4CXzJ98ScuLGRij1KakzSv.jpg",
+      "genre_ids": [
+        10751,
+        35
+      ],
+      "id": 230525,
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "우당탕탕 패밀리",
+      "overview": "A romantic family drama about a divorced couple who broke up 30 years ago out of hate, reuniting as in-laws through their children and overcoming long overdue conflicts and enmity.",
+      "popularity": 2174.82,
+      "poster_path": "/goMzJ6rxTndGki2pKpyAKuKNXHY.jpg",
+      "first_air_date": "2023-09-18",
+      "name": "Unpredictable Family",
+      "vote_average": 6.8,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3oZgE4220UrqaaiZXxz5MtNCVxJ.jpg",
+      "genre_ids": [
+        10764
+      ],
+      "id": 12513,
+      "origin_country": [
+        "ES"
+      ],
+      "original_language": "es",
+      "original_name": "Operación Triunfo",
+      "overview": "Reality-show talent contest aimed to find the country's next solo singing sensation, putting a selection of hopefuls through their paces by getting them to sing a variety of cover versions of popular songs, with tutoring from various professionals.",
+      "popularity": 2174.784,
+      "poster_path": "/8Qfq22zP5PeUKJfN5bFPFJtJz5i.jpg",
+      "first_air_date": "2001-10-22",
+      "name": "Operación Triunfo",
+      "vote_average": 5.846,
+      "vote_count": 13
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pg5YXJzHfA2wWru1EayHk3Ztd2d.jpg",
+      "genre_ids": [
+        18,
+        80,
+        10766
+      ],
+      "id": 209265,
+      "origin_country": [
+        "BR"
+      ],
+      "original_language": "pt",
+      "original_name": "Terra e Paixão",
+      "overview": "When her husband is killed in a land grabbing attempt, Aline takes charge of cultivating his land and protecting his family. Facing the powerful Antonio La Selva, responsible for the death of her husband and the largest landowner in the region, Aline is determined to keep possession of her land and invest in its production. However, she didn't expect that she would fall in love with Daniel, son of her rival, who is at odds with his rebellious half-brother, Caio, who, in turn, also falls in love with the girl. In the interior of Brazil, Aline will have to fight two battles: the dispute for her lands and for her heart.",
+      "popularity": 2174.604,
+      "poster_path": "/uepOV5gGm58evBKHpAtHePYtNYc.jpg",
+      "first_air_date": "2023-05-08",
+      "name": "Land of Desire",
+      "vote_average": 6.474,
+      "vote_count": 135
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/46PJ9taXITt1aXPZTMJXpBw5MlU.jpg",
+      "genre_ids": [],
+      "id": 232937,
+      "origin_country": [
+        "MX"
+      ],
+      "original_language": "es",
+      "original_name": "Minas de Pasión",
+      "overview": "Emilia a single mother who works in a mine fall in love with Leonardo the son of Roberta Castro the most powerful of the people. Roberta will seek revenge on Emilia by making her life miserable.",
+      "popularity": 2111.498,
+      "poster_path": "/lLJBisfhikqTD0Cj9a2ZJw5kyOe.jpg",
+      "first_air_date": "2023-08-21",
+      "name": "Minas de Pasión",
+      "vote_average": 7.588,
+      "vote_count": 34
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/65Y6PweSvQ1OOFBzStybjipURRP.jpg",
+      "genre_ids": [
+        80,
+        18,
+        9648
+      ],
+      "id": 4057,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Criminal Minds",
+      "overview": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
+      "popularity": 2047.122,
+      "poster_path": "/7TCwgX7oQKxcWYEhSPRmaHe6ULN.jpg",
+      "first_air_date": "2005-09-22",
+      "name": "Criminal Minds",
+      "vote_average": 8.319,
+      "vote_count": 3496
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gNPWlhUXhyWiHv9qxr57tvT0WwS.jpg",
+      "genre_ids": [
+        18,
+        10765
+      ],
+      "id": 60735,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Flash",
+      "overview": "After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only \"meta-human\" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won't be long before the world learns what Barry Allen has become...The Flash.",
+      "popularity": 2044.755,
+      "poster_path": "/lJA2RCMfsWoskqlQhXPSLFQGXEJ.jpg",
+      "first_air_date": "2014-10-07",
+      "name": "The Flash",
+      "vote_average": 7.793,
+      "vote_count": 10760
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8VWgyQjExeMgeg6Qzv6agduMU1A.jpg",
+      "genre_ids": [
+        18,
+        10759,
+        10765
+      ],
+      "id": 121,
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "Doctor Who",
+      "overview": "The adventures of The Doctor, a time-traveling humanoid alien known as a Time Lord. He explores the universe in his TARDIS, a sentient time-traveling spaceship. Its exterior appears as a blue British police box, which was a common sight in Britain in 1963 when the series first aired. Along with a succession of companions, The Doctor faces a variety of foes while working to save civilizations, help ordinary people, and right many wrongs.",
+      "popularity": 2040.536,
+      "poster_path": "/xinqAmYrZ1TEwowcQhgTkZVtVE0.jpg",
+      "first_air_date": "1963-11-23",
+      "name": "Doctor Who",
+      "vote_average": 7.9,
+      "vote_count": 542
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/A1xO9Y3k5v0k0fyi9rcyan6HiS2.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751
+      ],
+      "id": 2122,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "King of the Hill",
+      "overview": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in.",
+      "popularity": 1987.372,
+      "poster_path": "/3MnkwPdqQ4if7HL4rYTy6eUyq8q.jpg",
+      "first_air_date": "1997-01-12",
+      "name": "King of the Hill",
+      "vote_average": 7.341,
+      "vote_count": 523
+    }
+  ],
+  "total_pages": 8092,
+  "total_results": 161840
+}
